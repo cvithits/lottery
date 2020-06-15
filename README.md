@@ -1,2 +1,2 @@
 # lottery
-lottery fetcher
+lottery fetcher for google cloud functions
